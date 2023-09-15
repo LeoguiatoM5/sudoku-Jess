@@ -115,7 +115,7 @@ html body #main__container #header__controls #header__menu img:active {
 
 html body #main__container #header__controls #header__header {
   width: 33.3%;
-  font-size: 15px;
+  font-size: 2rem;
   text-align: center;
   font-family: "Recursive";
 }
